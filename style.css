@@ -1,0 +1,22 @@
+body {
+  padding-top: 56px;
+  padding-bottom: 60px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.container {
+  margin-bottom: 20px;
+}
+
+.columns {
+  margin-bottom: 50px;
+}
+
+.footer {
+  height: 60px;
+  line-height: 60px;
+  background-color: #333;
+}
